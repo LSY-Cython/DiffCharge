@@ -27,6 +27,6 @@ Reproducation of the evaluation experiments:<br />
 3) tail clustering: tail.py
 4) day-ahead charging energy bidding simulation: dam.py
 
-Other useful tools: utils.py, figure.py
+Other useful tools: utils.py, data_client.py, figure.py
 
 Questions? Contact Siyang at sli572@connect.hkust-gz.edu.cn.
